@@ -84,3 +84,40 @@ D:\repo\FINCRERP\obj\Debug\FINCRERP.csproj.CoreCompileInputs.cache
 D:\repo\FINCRERP\obj\Debug\FINCRERP.csproj.CopyComplete
 D:\repo\FINCRERP\obj\Debug\FINCRERP.dll
 D:\repo\FINCRERP\obj\Debug\FINCRERP.pdb
+C:\repositorio git\FINCRERP\bin\FINCRERP.dll.config
+C:\repositorio git\FINCRERP\bin\FINCRERP.dll
+C:\repositorio git\FINCRERP\bin\FINCRERP.pdb
+C:\repositorio git\FINCRERP\bin\Antlr3.Runtime.dll
+C:\repositorio git\FINCRERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\repositorio git\FINCRERP\bin\Microsoft.Web.Infrastructure.dll
+C:\repositorio git\FINCRERP\bin\Newtonsoft.Json.dll
+C:\repositorio git\FINCRERP\bin\System.Web.Helpers.dll
+C:\repositorio git\FINCRERP\bin\System.Web.Mvc.dll
+C:\repositorio git\FINCRERP\bin\System.Web.Optimization.dll
+C:\repositorio git\FINCRERP\bin\System.Web.Razor.dll
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.Deployment.dll
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.dll
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.Razor.dll
+C:\repositorio git\FINCRERP\bin\WebGrease.dll
+C:\repositorio git\FINCRERP\bin\System.Web.Helpers.xml
+C:\repositorio git\FINCRERP\bin\System.Web.Mvc.xml
+C:\repositorio git\FINCRERP\bin\System.Web.Optimization.xml
+C:\repositorio git\FINCRERP\bin\System.Web.Razor.xml
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.xml
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.Deployment.xml
+C:\repositorio git\FINCRERP\bin\System.Web.WebPages.Razor.xml
+C:\repositorio git\FINCRERP\bin\Newtonsoft.Json.xml
+C:\repositorio git\FINCRERP\bin\Antlr3.Runtime.pdb
+C:\repositorio git\FINCRERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\repositorio git\FINCRERP\bin\es\System.Web.Helpers.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.Mvc.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.Optimization.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.Razor.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.WebPages.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\repositorio git\FINCRERP\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\repositorio git\FINCRERP\obj\Debug\FINCRERP.csproj.AssemblyReference.cache
+C:\repositorio git\FINCRERP\obj\Debug\FINCRERP.csproj.CoreCompileInputs.cache
+C:\repositorio git\FINCRERP\obj\Debug\FINCRERP.csproj.CopyComplete
+C:\repositorio git\FINCRERP\obj\Debug\FINCRERP.dll
+C:\repositorio git\FINCRERP\obj\Debug\FINCRERP.pdb
